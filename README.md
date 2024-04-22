@@ -1,2 +1,2 @@
 # BlogGiscus
-hjwang1024.github.io/的评论仓库
+hjwang1024.github.io的评论仓库
